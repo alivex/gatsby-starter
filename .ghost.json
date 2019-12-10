@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://manus-ghost.staging.labamboss.com",
+    "contentApiKey": "f0e6e084bc5350facab1eb1eb6"
+  },
+  "production": {
+    "apiUrl": "https://manus-ghost.staging.labamboss.com",
+    "contentApiKey": "f0e6e084bc5350facab1eb1eb6"
+  }
+}
